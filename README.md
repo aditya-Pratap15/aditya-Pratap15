@@ -7,32 +7,32 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://linkedin.com/in/uppuluri-kalyani-522419257/" target="_blank">
+      <a href="https://www.linkedin.com/in/aditya-pratap-prajapati-a624a41b2/" target="_blank">
         <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.codechef.com/users/kalyanicse" target="_blank">
+      <a href="" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef" height="40" width="40"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.hackerrank.com/kalyaniuppuluri7" target="_blank">
+      <a href="" target="_blank">
         <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank" height="40" width="40"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://twitter.com/_Kalyaniangel_" target="_blank">
+      <a href="https://x.com/pratapaadiadit5" target="_blank">
         <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="40" width="40"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://instagram.com/kalyani_arwenundomiel" target="_blank">
+      <a href="" target="_blank">
         <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" height="40" width="40"/>
       </a>
     </td>
     <td align="center">
-      <a href="mailto:kalyaniuppuluri7@gmail.com" target="_blank">
+      <a href="mailto:pratapaadiaditya@gmail.com" target="_blank">
         <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Gmail" height="40" width="40"/>
       </a>
     </td>

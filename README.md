@@ -50,37 +50,33 @@
 <table>
 	<tr>
 		<td><strong>Programming Languages</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=cpp,c,java,python,js&theme=dark"></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=cpp,c,python,js&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Database Technologies</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Frontend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,angular&theme=dark"></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Backend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=nodejs&theme=dark"></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=nodejs,expressjs&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Frameworks and Libraries</strong></td>
 		<td>
-			<img height=40 src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark">
-			<img height=40 src="https://numpy.org/images/logo.svg">
-			<img height=40 src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png">
-			<img height=40 src="https://matplotlib.org/_static/logo2.svg">
+			<img height=40 src="https://skillicons.dev/icons?i=next,react&theme=dark">
 		</td>
 	</tr>
 	<tr>
 		<td><strong>Developer Tools</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=git,github,gitlab,vscode&theme=dark"></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=github,vscode&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Operating Systems</strong></td>
 		<td>
-			<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 			<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 		</td>
 	</tr>

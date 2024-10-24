@@ -1,7 +1,16 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=100%, height="auto">
-<h1 align="center">Hi 👋, I'm Aditya Pratap Prajapati <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&lines=+Fullstack+developer;Learning+new+skills+everyday" alt="Typing SVG" /></a>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya Pratap Prajapati <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&lines=+Fullstack+developer;Computer+Science+Student;Open+Source+Contributor;Tech+Enthusiast;Learning+new+skills+everyday" alt="Typing SVG" /></a>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aditya-Pratap15&color=red" alt="Total Github views" />
+ 
+:star:  Looking forward to have a successful professional career as a **Software Developer** <br>
+:nerd_face: Currently looking for internship role on **Full Stack Development!** <br>
+:snowflake: Undergraduate student at **AKS University, Satna (M.P)** in **B.Tech Computer Science and Engineering**. Passout batch: 2026 <br>
+🚀 Love to talk about **Research and Innovation!** <br>
+💻 Participated in different Open Source Programs <br>
+**In short🍺, I love to work on new technologies.💙** <br>
+
+*:sleeping: Fun Fact about me: I love to play flute when I get stress!*
 <h2 align="center"><i>Connect with me 🔗</i></h2>
 
 <table align="center">
@@ -58,7 +67,7 @@
 	</tr>
 	<tr>
 		<td><strong>Frontend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Backend Development</strong></td>
@@ -67,12 +76,12 @@
 	<tr>
 		<td><strong>Frameworks and Libraries</strong></td>
 		<td>
-			<img height=40 src="https://skillicons.dev/icons?i=next,react&theme=dark">
+			<img height=40 src="https://skillicons.dev/icons?i=bootstrap,next,react&theme=dark">
 		</td>
 	</tr>
 	<tr>
 		<td><strong>Developer Tools</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=github,vscode&theme=dark"></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=github,git,vscode,figma,vercel&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Operating Systems</strong></td>
@@ -85,7 +94,6 @@
 <br>
 <h2 align="center">⚙️GitHub Analytics</h2>
 
-<a href="https://github.com/aditya-Pratap15">
 <table width="100%" align="center">
 <tr>
 <td>
@@ -99,9 +107,12 @@
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=aditya-Pratap15&show_icons=true&locale=en&theme=react" alt="GitHub Stats"/>
 </td>
 <td>
+   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-Pratap15&show_icons=true&locale=en&layout=compact&theme=radical">
+</td>
+<td>
   <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-Pratap15&theme=react" alt="Streak Stats"/>
 </td>
 </tr>
 </table>
-<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=100%, height="auto">
+

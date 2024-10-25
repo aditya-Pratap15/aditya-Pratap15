@@ -107,7 +107,7 @@
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=aditya-Pratap15&show_icons=true&locale=en&theme=react" alt="GitHub Stats"/>
 </td>
 <td>
-   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-Pratap15&show_icons=true&locale=en&layout=compact&theme=radical">
+   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-Pratap15&show_icons=true&locale=en&layout=compact&theme=radical">
 </td>
 <td>
   <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-Pratap15&theme=react" alt="Streak Stats"/>

@@ -121,7 +121,7 @@
    <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-Pratap15&show_icons=true&locale=en&layout=compact&theme=radical">
 </td>
 <td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=react" alt="Streak Stats"/>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-Pratap15&theme=react" alt="Streak Stats"/>
 </td>
 </tr>
 </table>

@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=100%, height="auto">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya Pratap Prajapati <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&lines=+Fullstack+developer;Computer+Science+Student;Open+Source+Contributor;Tech+Enthusiast;Learning+new+skills+everyday" alt="Typing SVG" /></a>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=aditya-Pratap15&color=red" alt="Total Github views" />
+<p align="left"><img src="https://komarev.com/ghpvc/?username=aditya-Pratap15&color=red" alt="Total Github views" />  ..
  
 :star:  Looking forward to have a successful professional career as a **Software Developer** <br>
 :nerd_face: Currently looking for internship role on **Full Stack Development!** <br>

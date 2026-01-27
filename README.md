@@ -1,129 +1,93 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=100%, height="auto">
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya Pratap Prajapati <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&lines=+Fullstack+developer;Computer+Science+Student;Open+Source+Contributor;Tech+Enthusiast;Learning+new+skills+everyday" alt="Typing SVG" /></a>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=aditya-Pratap15&color=red" alt="Total Github views" />  
- 
-:star:  Looking forward to have a successful professional career as a **Software Developer** <br>
-:nerd_face: Currently looking for internship role on **Full Stack Development!** <br>
-:snowflake: Undergraduate student at **AKS University, Satna (M.P)** in **B.Tech Computer Science and Engineering**. Passout batch: 2026 <br>
-🚀 Love to talk about **Research and Innovation!** <br>
-💻 Participated in different Open Source Programs <br>
-**In short🍺, I love to work on new technologies.💙** <br>
-
-*:sleeping: Fun Fact about me: I love to play flute when I get stress!*
-<h2 align="center"><i>Connect with me 🔗</i></h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/aditya-pratap-prajapati-a624a41b2/" target="_blank">
-        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://x.com/pratapaadiadit5" target="_blank">
-        <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="40" width="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:pratapaadiaditya@gmail.com" target="_blank">
-        <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Gmail" height="40" width="40"/>
-      </a>
-    </td>
-        <td align="center">
-      <a href="https://www.codechef.com/users/ranger_29" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef" height="40" width="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://leetcode.com/u/Ranger_29/" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="Leetcode" height="40" width="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.geeksforgeeks.org/user/adicodeguru/" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" alt="Geeksforgeeks" height="40" width="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://codeforces.com/profile/adityapratap" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=YSy0lU4Y0X4z&format=png&color=000000" alt="Codeforces" height="40" width="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
-<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 20px; margin-bottom: 20px;">
+</div>
 
 <div align="center">
-<h2 align='center'><i>Languages, Tools and Technologies 🚀 </i></h2>
-<table>
-	<tr>
-		<td><strong>Programming Languages</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=cpp,c,python,js&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Database Technologies</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Frontend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Backend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=nodejs,expressjs&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Frameworks and Libraries</strong></td>
-		<td>
-			<img height=40 src="https://skillicons.dev/icons?i=bootstrap,next,react&theme=dark">
-		</td>
-	</tr>
-	<tr>
-		<td><strong>Developer Tools</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=github,git,vscode,figma,vercel&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Operating Systems</strong></td>
-		<td>
-			<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-		</td>
-	</tr>
-</table>
-</div>
-<br>
-<h2 align="center">GSSOC(24) Badges 🏆 </h2>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <h1 align="center">Hi there, I'm Aditya Pratap Prajapati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A965FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Research+%26+Innovation+Enthusiast;Open+Source+Contributor;Building+The+Future+of+Tech" alt="Typing SVG" />
   </a>
 </div>
-<br>
-<h2 align="center">⚙️GitHub Analytics</h2>
 
-<table width="100%" align="center">
-<tr>
-<td>
-<img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-Pratap15&theme=radical" alt="Profile Summary">
-</td>
-</tr>
-</table>
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=aditya-Pratap15&show_icons=true&locale=en&theme=react" alt="GitHub Stats"/>
-</td>
-<td>
-   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-Pratap15&show_icons=true&locale=en&layout=compact&theme=radical">
-</td>
-<td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-Pratap15&theme=react" alt="Streak Stats"/>
-</td>
-</tr>
-</table>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=100%, height="auto">
+<br/>
 
+<div align="center">
+  <table>
+    <tr>
+      <td valign="center">
+        <h3 align="center">🚀 About Me</h3>
+        <p align="left">
+          🔭 I’m currently a 4th-year <b>Computer Science Student</b> at <b>AKS University</b> (2026 Batch).<br>
+          🌱 Exploring the depths of <b>Research, Innovation, and Entrepreneurship</b>.<br>
+          💼 Seeking internship opportunities in <b>Full Stack Development</b>.<br>
+          🧩 Fun Fact: I play the <b>Flute</b> to de-stress and find rhythm in chaos.<br>
+          <br>
+          <i>"Innovation distinguishes between a leader and a follower."</i>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/aditya-pratap-prajapati-a624a41b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/pratapaadiadit5">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="mailto:pratapaadiaditya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://leetcode.com/u/Ranger_29/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.codechef.com/users/ranger_29">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://codeforces.com/profile/adityapratap">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+</div>
+
+<br/>
+<br/>
+
+<h2 align="center">⚡ Technologies & Tools</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css,react,next,tailwind,bootstrap,nodejs,express,mongodb,postgres,firebase,git,github,vscode,figma,vercel,windows&perline=11&theme=dark" />
+</div>
+
+<br/>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-Pratap15&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A965FF&icon_color=A965FF" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-Pratap15&theme=tokyonight&hide_border=true&background=0D1117&ring=A965FF&fire=A965FF&currStreakLabel=A965FF" height="150" alt="Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya-Pratap15&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A965FF&icon_color=A965FF&rank_icon=github" height="150" alt="GitHub Stats" />
+</div>
+
+<br/>
+
+<h2 align="center">🏆 Achievements</h2>
+<div align="center">
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="50px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="50px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="50px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="50px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="50px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="50px" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px">
+</div>

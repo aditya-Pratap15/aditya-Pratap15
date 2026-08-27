@@ -21,7 +21,7 @@
  <table align="center" style="border: none;">
   <tr>
    <td align="left" width="600">
-    🔭 <b>Current Focus:</b> Finishing my B.Tech (CS) at <b>AKS University</b> (Class of '26).<br>
+    🔭 <b>Current Focus:</b> Gratuated by B.Tech (CS) at <b>AKS University</b> (Class of '26).<br>
     💼 <b>Looking For:</b> Internship opportunities in <b>Full Stack Development</b>.<br>
     🔬 <b>Interests:</b> Entrepreneurship, Research & Innovation in Tech.<br>
     ⚡ <b>Philosophy:</b> <i>"Code is poetry written in logic."</i>

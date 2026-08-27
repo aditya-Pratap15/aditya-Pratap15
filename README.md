@@ -62,16 +62,6 @@
 </div>
 
 <br/>
-
-<h3 align="center">🏆 Achievements</h3>
-<div align="center">
-  <a href="https://gssoc.girlscript.tech/leaderboard">
-    <img src="https://img.shields.io/badge/GirlScript%20Summer%20of%20Code-Postman%20Challenge-orange?style=for-the-badge&logo=postman&logoColor=white" style="margin:5px"/>
-  </a>
-</div>
-
-<br/>
-
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer&animation=fadeIn" width="100%">
 </div>

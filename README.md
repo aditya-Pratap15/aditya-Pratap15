@@ -58,9 +58,6 @@
 
 <h3 align="center">📈 GitHub Analytics</h3>
 <div align="center">
-
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aditya-Pratap15&show_icons=true&theme=transparent&hide_border=true&title_color=0072ff&text_color=555&icon_color=0072ff" />
- </a>
  <a href="https://github.com/aditya-Pratap15">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-Pratap15&layout=compact&theme=transparent&hide_border=true&title_color=0072ff&text_color=555&icon_color=0072ff" />
  </a>

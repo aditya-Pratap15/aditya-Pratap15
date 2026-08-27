@@ -75,10 +75,7 @@
 <h3 align="center">🏆 Achievements</h3>
 <div align="center">
   <a href="https://gssoc.girlscript.tech/leaderboard">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="45" style="margin:5px"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="45" style="margin:5px"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="45" style="margin:5px"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="45" style="margin:5px"/>
+    <img src="https://img.shields.io/badge/GirlScript%20Summer%20of%20Code-Postman%20Challenge-orange?style=for-the-badge&logo=postman&logoColor=white" style="margin:5px"/>
   </a>
 </div>
 

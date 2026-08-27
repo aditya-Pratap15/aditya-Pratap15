@@ -58,12 +58,6 @@
 
 <h3 align="center">📈 GitHub Analytics</h3>
 <div align="center">
- <a href="https://github.com/aditya-Pratap15">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-Pratap15&layout=compact&theme=transparent&hide_border=true&title_color=0072ff&text_color=555&icon_color=0072ff" />
- </a>
-</div>
-
-<div align="center">
  <img src="https://streak-stats.demolab.com?user=aditya-Pratap15&theme=transparent&hide_border=true&ring=0072ff&fire=0072ff&currStreakLabel=0072ff" alt="streak stats" />
 </div>
 
